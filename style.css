@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+background-color:#355E3B;
+text-align:center;
+color:  #FFDB58;
+}
+
+img{
+float:left;
+}
+nav{
+background-color: #FFDB58;
+padding:10px;
+}
